@@ -1,0 +1,10 @@
+# Input files
+/Day*/data/input.txt
+
+# IDE files
+/Day*/.idea
+/Day*/out/
+/Day*/*.iml
+
+# Misc
+/*.txt
